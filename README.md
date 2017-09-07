@@ -1,5 +1,5 @@
 ## ZIP
-This is the R function for adptive Lasso of zero-inflated Poisson (ZIP) and zero-inflated negative binomial (ZINB).
+This is the R function for adptive Lasso of **zero-inflated Poisson** (ZIP) and **zero-inflated negative binomial** (ZINB).
 
 
 ## Cite
